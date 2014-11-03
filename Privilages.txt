@@ -1,0 +1,5 @@
+User name: crop_manager
+Host: localhost
+Password: simplePass
+All Privilages
+Create DB with same name
